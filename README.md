@@ -1,2 +1,2 @@
 # React-Class
- Udemy course on Recat (68.5 hours)
+ Udemy course on React (68.5 hours)
