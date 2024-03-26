@@ -1,0 +1,10 @@
+Create RootLayouts and nested routes
+    -Loaders and Actions
+
+useFetcher
+    -fetcher.Form (See Newsletter)
+        -Allows you to run queries behind the scenes without navigating to page
+
+defer
+    -Slow backend, allows you to display temporary text while data is loading (see Events/EventDetail)
+    -use 'await' to load render component after that specific data piece has been loaded
