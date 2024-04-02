@@ -1,1 +1,23 @@
-{"events":[{"title":"test","image":"https://th.bing.com/th/id/OIP.GPFEY6kfgxbsja6gmrW6rwHaE7?rs=1&pid=ImgDetMain","date":"2024-03-14","description":"adsfasdfasdf","id":"afd43434-00b3-4a9f-a52b-94b3dc0795e0"}],"users":[{"email":"Rugrat@asdfas.com","password":"$2a$12$AJ87keAmPGD8Bf2LEcVnKOfw1obihC3P6scdasT.LnUTys9.Y3YGG","id":"972e70fa-2319-4fd1-9bb7-141105c26509"},{"email":"Ruasdfat@asdfas.com","password":"$2a$12$CNpbnvA5uLH9bmsJZVtjcuJS0HP25YmbqP5NpckKDUjvpvkM6h8y.","id":"b5d71ca8-6359-43d9-abca-69f0a5ff57de"}]}
+{
+  "events": [
+    {
+      "title": "test",
+      "image": "https://th.bing.com/th/id/OIP.GPFEY6kfgxbsja6gmrW6rwHaE7?rs=1&pid=ImgDetMain",
+      "date": "2024-03-14",
+      "description": "adsfasdfasdf",
+      "id": "afd43434-00b3-4a9f-a52b-94b3dc0795e0"
+    }
+  ],
+  "users": [
+    {
+      "email": "Rugrat@asdfas.com",
+      "password": "$2a$12$AJ87keAmPGD8Bf2LEcVnKOfw1obihC3P6scdasT.LnUTys9.Y3YGG",
+      "id": "972e70fa-2319-4fd1-9bb7-141105c26509"
+    },
+    {
+      "email": "Ruasdfat@asdfas.com",
+      "password": "$2a$12$CNpbnvA5uLH9bmsJZVtjcuJS0HP25YmbqP5NpckKDUjvpvkM6h8y.",
+      "id": "b5d71ca8-6359-43d9-abca-69f0a5ff57de"
+    }
+  ]
+}
